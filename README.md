@@ -11,5 +11,7 @@ This is example and it is to show different parts of the Git repository and vari
 Sample website with plenty of files for demos
 
 ## How to Contribute
+This is some description to show us how to contribute on the project
 
 ##Deployment
+This is some deployment description
