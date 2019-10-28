@@ -19,3 +19,7 @@ This is some deployment description
 ### Copyright
 
 2019 copyright added
+
+
+###Editing file on master branch while other branche is active
+Nemanja
