@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Nemanja Maksic nemanja.maksic@gmail.com 
 
 # THANKS
 
