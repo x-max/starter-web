@@ -15,3 +15,7 @@ This is some description to show us how to contribute on the project
 
 ##Deployment
 This is some deployment description
+
+### Copyright
+
+2019 copyright added
