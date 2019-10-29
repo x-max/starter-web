@@ -23,6 +23,6 @@ This is some deployment description
 
 ###Editing file on master branch while other branche is active
 Nemanja
-Adding a line for rebasing example
+Adding a line for rebasing example, then more changges from myfeature branch too
 
 
