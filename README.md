@@ -27,3 +27,4 @@ Nemanja
 Adding a line for rebasing example, then more changges from myfeature branch too
 
 
+Nemanja added text
